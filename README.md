@@ -6,7 +6,7 @@ mobile HTML5 Game Development.
 It is released under both the GPL and MIT license to do with what you will.
 
 Playable Version: 
-http://cykod.github.com/AlienInvasion/
+https://github.com/Tech-for-Fun/release-based-workflow/blob/release-v1.0/README.md
 
 Bit.ly link for mobile: 
 http://bit.ly/html5-invasion
